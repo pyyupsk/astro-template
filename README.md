@@ -2,7 +2,7 @@
 
 Welcome to the Astro Template repository! This template is designed to provide a solid starting point for developing modern, fast, and SEO-friendly websites using Astro, TypeScript, TailwindCSS, and other popular tools.
 
-![Preview](https://raw.githubusercontent.com/Zylo23/astro-template/main/.github/assets/preview.png)
+![Preview](https://raw.githubusercontent.com/pyyupsk/astro-template/main/.github/assets/preview.png)
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ To get started with this template, you'll need to have Node.js and PNPM installe
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Zylo23/astro-template.git
+   git clone https://github.com/pyyupsk/astro-template.git
    cd astro-template
    ```
 
